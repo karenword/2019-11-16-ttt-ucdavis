@@ -13,9 +13,6 @@ contact: ["krlizars@ucdavis.edu"]    # boxed, comma-separated list of contact em
 etherpad:  https://pad.carpentries.org/2019-11-16-ttt-ucdavis    # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
-
   - venue: "Data Lab, UC Davis"
     address: "3rd floor Shields Library, 100 N Quad Ave, Davis CA"
     latlng: "38.540241,-121.7491111"
