@@ -152,7 +152,7 @@ to be high-quality, but it should be good enough that you can understand what
 someone is saying.
 
 Please note that after this course is over, you will be asked to do
-three short follow-up exercises online in order to finish qualifying
+three short follow-up exercises online if you would like to finish qualifying
 as an instructor: the details are available at
 <a href="{{ site.training_site }}/checkout/">{{ site.training_site }}/checkout/</a>.
 If you have any questions about the workshop, the reading material,
